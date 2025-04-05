@@ -34,3 +34,4 @@
 ### 📫 Contact Me
 - 📧 Email: thanapoom.t@hotmail.com  
 - 💼 LinkedIn: [linkedin.com/in/thanapoom-tongplengsri-6ba021350](https://www.linkedin.com/in/thanapoom-tongplengsri-6ba021350)
+- 📄 Resume: [https://github.com/ThanapoomJoey/Resume](https://github.com/ThanapoomJoey/Resume)
